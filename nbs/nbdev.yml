@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-tutorial"
+  site-url: "https://WillBriggs-SI.github.io/nbdev-tutorial"
+  description: "https://nbdev.fast.ai/tutorials/tutorial.html"
+  repo-branch: main
+  repo-url: "https://github.com/WillBriggs-SI/nbdev-tutorial"
