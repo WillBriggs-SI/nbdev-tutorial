@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-tutorial",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-tutorial",
+    "section": "Install",
+    "text": "Install\npip install nbdev_tutorial"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-tutorial",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2\n\n\n\n2*3\n\n6"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "01_Tutorial",
+    "section": "",
+    "text": "The autoreload extension is already loaded. To reload it, use:\n  %reload_ext autoreload\n\n\n\nsource\n\nfoo\n\n foo ()\n\n\nsource\n\n\nsay_hi\n\n say_hi (to)\n\nSay hi to somebody\n\nsay_hi(\"Will\")\n\n'Hi Will!'\n\n\n\nsay_hi(\"1\")\n\n'Hi 1!'\n\n\n\nassert say_hi(\"Will\")==\"Hi Will!\"\n\n\nfrom fastcore.test import *\n\n\ntest_eq(say_hi(\"Hamel\"), \"Hi Hamel!\")\n\n\nfrom IPython.display import display,SVG\n\n\ndisplay(SVG('<svg height=\"100\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"500\" cy=\"50\" r=\"40\"/></svg>'))\n\n\n\n\n\nsource\n\n\nHiSayer\n\n HiSayer (to)\n\nSay hi to to using say_hi\n\no = HiSayer(\"Alexis\")\no.say()\n\n'Hi Alexis!'\n\n\n\nw = HiSayer(\"Will\")\nw.say()\n\n'Hi Will!'\n\n\n\\[\\sum_{i=1}^{\\infty}i = -\\frac{1}{12}\\]\ninline \\(\\sum_{i=1}^{\\infty}i = -\\frac{1}{12}\\) looks like this"
+  }
+]
